@@ -1,7 +1,7 @@
 # MyPlaces
 
 ## Description
-MyPlaces is a web application for storing favorite place built with MERN Stack.
+MyPlaces is a web application for storing favorite places built with MERN Stack.
 
 ## Stack
 - NodeJS backend
