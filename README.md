@@ -11,7 +11,7 @@ MyPlaces is a web application for storing favorite place built with MERN Stack.
 
 ## Additional Features
 - Mongoose OBDM
-- Password with Bcrypts
+- Password with Bcrypt
 - User authentication (signup + login)
 - State management with context API
 - Authentication/Authorization with JWT
